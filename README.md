@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/Amakoye/order-summary-component)
-- Live Site URL: [demo link](https://product-preview-card-component-mauve-iota.vercel.app/)
+- Live Site URL: [demo link](https://order-summary-component-gamma-pied.vercel.app/)
 
 ## My process
 
